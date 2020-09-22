@@ -9,6 +9,20 @@ $tropical-rain-forest: #127456; */
   text-align: center;
 }
 
+.container {
+  width: 80%;
+}
+
+section, article {
+    width: 80%;
+    text-align: center;
+  }
+
+hr {
+	margin: 1%;
+  width: 60%;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;

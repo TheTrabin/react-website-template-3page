@@ -15,12 +15,13 @@ justify-content: center;
 align-items: center;
 line-height: 1px;
 background-color: #99AC5D;
-width: 100%;
+width: 60%;
 color: #216745;
 margin: 0;
 border-radius: 30px;
 h1 {
-    font-family: ${ShadowsIntoLightTwo}, sans-serif;
+    font-family: virginia, ${ShadowsIntoLightTwo}, sans-serif;
+    font-size: 3.2rem;
 }
 `;
 
@@ -28,6 +29,7 @@ h1 {
 const NavigationBar = () => {
     return (
     <ContainerDiv>
+        <center>
         <Navbar>
             <h1> Nurture Naturally with Auntie AK </h1>
             
@@ -47,7 +49,7 @@ const NavigationBar = () => {
                 </Button>
             </Link>
       </Navbar>
-      
+      </center>
     </ContainerDiv>
     )
 };

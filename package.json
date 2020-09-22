@@ -1,0 +1,22 @@
+{
+  "name": "react-website-template-3page",
+  "version": "1.0.0",
+  "description": "website template for React using 3 pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheTrabin/react-website-template-3page.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Michael \"The Trabin\" Mcleod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheTrabin/react-website-template-3page/issues"
+  },
+  "homepage": "https://github.com/TheTrabin/react-website-template-3page#readme"
+}
